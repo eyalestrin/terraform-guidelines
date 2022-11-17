@@ -15,3 +15,7 @@
 1. Follow the instructions below to install Terraform:  
   https://github.com/eyalestrin/terraform-guidelines/blob/master/Terraform%20Configuration.md  
 2. Folloe the instructions below to configure Terraform for AWS provider:  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/How%20to%20configure%20Terraform%20for%20AWS%20provider.md  
+
+# Terraform project configuration
+1. Copy the files below to a local terraform folder:  
