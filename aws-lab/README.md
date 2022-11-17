@@ -14,7 +14,11 @@
 ## Terraform installation
 1. Follow the instructions below to install Terraform:  
   https://github.com/eyalestrin/terraform-guidelines/blob/master/Terraform%20Configuration.md  
-2. Folloe the instructions below to configure Terraform for AWS provider:  
+2. Create customer IAM policy, using the instructions below:  
+  https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-and-attach-iam-policy.html  
+  Note: Use the content of the following JSON file, when creating the IAM policy:  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/aws-lab/Custom_Create_EC2_Instance.json  
+3. Folloe the instructions below to configure Terraform for AWS provider:  
   https://github.com/eyalestrin/terraform-guidelines/blob/master/How%20to%20configure%20Terraform%20for%20AWS%20provider.md  
 
 ## Terraform project configuration
