@@ -7,6 +7,6 @@
   * AMI: **ami-09d3b3274b6c5d4aa**  
   * Instance size: **t2.micro**  
   * User data:  
-    sudo yum update -y  
+    **<code>sudo yum update -y  
     sudo amazon-linux-extras install nginx1 -y  
-    sudo systemctl start nginx  
+    sudo systemctl start nginx</code>**  
