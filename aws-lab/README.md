@@ -19,3 +19,11 @@
 
 ## Terraform project configuration
 1. Copy the files below to a local terraform folder:  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/aws-lab/alb.tf  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/aws-lab/auto_scaling_group.tf  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/aws-lab/aws_lb_listener.tf  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/aws-lab/aws_lb_listener_rule.tf  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/aws-lab/launch_configuration.tf  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/aws-lab/provider.tf  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/aws-lab/security_group.tf  
+2. Edit the file 
