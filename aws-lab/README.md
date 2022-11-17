@@ -1,4 +1,4 @@
-# Goal
+## Goal
 * Build a multi server (cluster)  
 * Connect the servers to a LoadBalancer  
 * Expose the LB to the world (create a custom Security group to expose port 80 to 0.0.0.0)  
@@ -11,11 +11,11 @@
     **<code>sudo amazon-linux-extras install nginx1 -y</code>**  
     **<code>sudo systemctl start nginx</code>**  
 
-# Terraform installation
+## Terraform installation
 1. Follow the instructions below to install Terraform:  
   https://github.com/eyalestrin/terraform-guidelines/blob/master/Terraform%20Configuration.md  
 2. Folloe the instructions below to configure Terraform for AWS provider:  
   https://github.com/eyalestrin/terraform-guidelines/blob/master/How%20to%20configure%20Terraform%20for%20AWS%20provider.md  
 
-# Terraform project configuration
+## Terraform project configuration
 1. Copy the files below to a local terraform folder:  
