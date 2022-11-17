@@ -10,3 +10,8 @@
     **<code>sudo yum update -y</code>**  
     **<code>sudo amazon-linux-extras install nginx1 -y</code>**  
     **<code>sudo systemctl start nginx</code>**  
+
+# Terraform installation
+1. Follow the instructions below to install Terraform:  
+  https://github.com/eyalestrin/terraform-guidelines/blob/master/Terraform%20Configuration.md  
+2. Folloe the instructions below to configure Terraform for AWS provider:  
