@@ -1,4 +1,4 @@
-# terraform-guidelines
+# Terraform Guidelines
 
 ## Terraform Configuration
 * https://github.com/eyalestrin/terraform-guidelines/blob/master/Terraform%20Configuration.md
