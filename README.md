@@ -8,3 +8,6 @@
 
 ## How to use Terraform for configuring resources in AWS
 * https://github.com/eyalestrin/terraform-guidelines/blob/master/How%20to%20use%20Terraform%20for%20configuring%20resources%20in%20AWS.md
+
+## Terraform lab (creating EC2 instances behind load-balancer
+* https://github.com/eyalestrin/terraform-guidelines/tree/master/aws-lab/README.md
