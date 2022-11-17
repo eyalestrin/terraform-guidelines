@@ -39,3 +39,17 @@
 4. Run the command below to run the Terraform scripts:  
   **<code>terraform apply</code>**  
 
+## Cleanup phase
+1. Move the Terraform scripts folder.  
+2. Run the command below to delete all changes done using the Terraform scripts:  
+  **<code>terraform destroy</code>**  
+
+## Troubleshooting
+1. In case you would like to troubleshoot and login to the EC2 instances, edit the file **security_group.tf**.
+2. Uncheck the **ingress** section related to inbound port 22.
+3. Save the **security_group.tf** file.
+4. Run the command below to apply the changes:  
+  **<code>terraform apply</code>**  
+5. Login to the EC2 console:  
+  https://console.aws.amazon.com/ec2/  
+6. Locate one of the EC2 instances, copy it's public IP address and try to login using your private key.
